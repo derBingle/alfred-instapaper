@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:derBingle/alfred-instapaper.git",
   "author": "derBingle <bing@derbingle.blog>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "instapaper": "^1.1.0"
+  }
 }
