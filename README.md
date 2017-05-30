@@ -2,7 +2,7 @@
 > Easily add URLs to [Instapaper](https://www.instapaper.com/) via [Alfred 3](https://www.alfredapp.com)
 
 ## Installation
-To install, [download]('URL') the workflow, and open it in Alfred.
+To install, [download](https://github.com/derBingle/alfred-instapaper/raw/master/alfred-instapaper.alfredworkflow) the workflow, and open it in Alfred.
 
 *Note: Custom workflows require the [Alfred Powerpack](https://www.alfredapp.com/powerpack/).*
 
